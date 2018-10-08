@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-For the **Neighborhood Map React** project, this is a web application using the React framework. Once the files are installed in the computer you will be able to start your project, it is highly encourage that all files are intalled correctly to work project seamless and with no interruptions.
+For the **Neighborhood Map React** project, this is a web application using the React framework. Once the files are installed in the computer you will be able to start your project, it is highly encourage that all files are installed correctly to work project seamless and with no interruptions.
 
 
 # How to run the project
@@ -16,7 +16,7 @@ To run the project, download or clone the repository in your computer:
 - Project will be open on your server usually localhost:3000.
 
 
-
+# How to navigate the project
 1. Type into the filter/search box to filter the shown locations on the map.
 2. Click on the button below the filter/search box to collapse or expand the suggestions list.
 3. Click anywhere on the map to close the information window that opens.
