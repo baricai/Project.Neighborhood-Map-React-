@@ -17,7 +17,7 @@ To run the project, download or clone the repository in your computer:
 
 
 # How to navigate the project
-1. Type into the filter/search box to filter the shown locations on the map.
+- Type into the filter/search box to filter the shown locations on the map.
 2. Click on the button below the filter/search box to collapse or expand the suggestions list.
 3. Click anywhere on the map to close the information window that opens.
 4. Click on any marker to see the location details fetched from the [FourSquare APIs](https://developer.foursquare.com/).
@@ -37,10 +37,13 @@ Once it was loaded and set up on the server I used mapbox top get a token for my
 At the end I added a service worker script file into the project sw.js so that any page that has been visited by a user will be accessible when the user is offline.
 
 # Material, resources and tools used
--Udacity mentoring
--Slack mentoring
--Github pages
--Mapbox
--Visual Studio
--Codepen.io
--CSS reference and almanac.
+- Udacity mentoring
+- Slack mentoring
+- Github pages
+- Google Maps JS API
+- Four Square API
+- Visual Studio Package
+- Codepen.io
+- Udacity resources videos with Udacity developers 
+- CSS reference and almanac
+- Google Dev Tools for testing
