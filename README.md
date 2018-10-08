@@ -13,6 +13,12 @@ To run the project, download or clone the repository in your computer:
 
 - $ git clone https://baricai.github.io/Project.Neighborhood-Map-React-/
 
+1. Type into the filter/search box to filter the shown locations on the map.
+2. Click on the button below the filter/search box to collapse or expand the suggestions list.
+3. Click anywhere on the map to close the information window that opens.
+4. Click on any marker to see the location details fetched from the [FourSquare APIs](https://developer.foursquare.com/).
+
+
 
 and follow the instructions below:
 
