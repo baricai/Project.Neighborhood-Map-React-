@@ -1,17 +1,21 @@
 # Project.Neighborhood-Map-React-
 
 
-
 ## Project Overview
 
-For the **Restaurant Reviews** projects,  convert a static webpage to a mobile-ready web application. In **Stage One**, we were given a code with a lot of issues and stuff all over the place, my job was to organize and provide the best functionality by organizing html, css and add more stuff to both for a better user experience.
+For the **Neighborhood Map React** project, this is a web application using the React framework. Once the files are installed in the computer you will be able to start your project, it is highly encourage that all files are intalled correctly to work project seamless and with no interruptions.
 
 
 # How to run the project
 
 To run the project, download or clone the repository in your computer:
 
-- $ git clone https://baricai.github.io/Project.Neighborhood-Map-React-/
+- $ git clone https://baricai.github.io/Project.Neighborhood-Map-React-/.
+-Type npm install.
+-Type npm start.
+-Project will be open on your server usually localhost:3000.
+
+
 
 1. Type into the filter/search box to filter the shown locations on the map.
 2. Click on the button below the filter/search box to collapse or expand the suggestions list.
