@@ -8,10 +8,8 @@ For the **Neighborhood Map React** project, this is a web application using the 
 
 # How to run the project
 
-To run the project, download or clone the repository in your computer:
-
-- $ git clone https://baricai.github.io/Project.Neighborhood-Map-React-/.
-- Open your terminal and type npm install.
+- $ git clone the repository.
+- Open your terminal go to that folder and type npm install.
 - Type npm start.
 - Project will open on your server usually localhost:3000.
 
