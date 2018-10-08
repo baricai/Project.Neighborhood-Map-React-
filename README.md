@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-For the **Neighborhood Map React** project, this is a web application using the React framework. Once the files are installed in the computer you will be able to start your project, it is highly encourage that all files are installed correctly to work project seamless and with no interruptions.
+For the **Neighborhood Map React** project, this is a web application using the React framework. Once the files are installed in the computer you will be able to start your project, it is highly encouraged that all files are installed correctly to work project seamless and with no interruptions.
 
 
 # How to run the project
